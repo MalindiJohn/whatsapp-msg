@@ -1,3 +1,3 @@
 # WhatsApp Msg
 
-Send whatsapp messages to customer via Whatsapp Business API
+Send whatsapp messages to customers via Whatsapp Business API
