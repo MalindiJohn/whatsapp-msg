@@ -49,6 +49,6 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 - Website - [https://malindijohn.dev](https://malindijohn.dev/)
 - Twitter - [@malindijohn22](https://twitter.com/malindijohn22)
 
-## License
+<!-- ## License
 
-Nest is [MIT licensed](LICENSE).
+Nest is [MIT licensed](LICENSE). -->
