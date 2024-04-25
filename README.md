@@ -5,7 +5,7 @@ Send whatsapp messages to customers via Whatsapp Business API
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+... hold on, something great coming soon.
 
 ## Installation
 
